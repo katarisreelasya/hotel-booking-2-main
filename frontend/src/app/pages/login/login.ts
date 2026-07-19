@@ -14,8 +14,8 @@ import { UserService } from '../../feature/services/user.service';
   styleUrl: './login.css',
 })
 export class Login {
-  email = '';
-  password = '';
+  email = 'sreelasya2503@gmail.com';
+  password = 'Lasya@25';
  
   constructor(
     private userService: UserService,
